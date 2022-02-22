@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# GT8 Guide
+# GT8 Guide 
 
 :::caution 
 

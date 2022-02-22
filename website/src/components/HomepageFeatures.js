@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Navigate Easily',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/undraw_dropdown_menu_re_jqqs.svg').default,
     description: (
       <>
         With a custom sidebar and navigable categories, rest assured you won't get lost. 
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'By Nafall',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/undraw_appreciation_re_p6rl.svg').default,
     description: (
       <>
         Thanks for visiting, let me know if this helped you in any way. ♥

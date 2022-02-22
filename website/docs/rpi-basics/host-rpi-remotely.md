@@ -57,7 +57,8 @@ Make sure to tick the checkmark so it won't have to ask for permission everytime
 
 :::note
 
-pi is the default username.
+`pi` is the default username.
+`raspberry` is the default password if you haven't changed it.
 
 :::
 

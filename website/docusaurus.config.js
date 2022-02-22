@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Nafall TLE Documentation',
+  title: 'NFD',
   tagline: 'Documentation for your RPi, MIT App Inventor and Scratch Needs! Click on "Docs" on the top left to get started.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -50,8 +50,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://web.facebook.com/k.ln.267/',
-            label: 'Facebook',
+            href: 'https://kln267.netlify.app',
+            label: 'My Personal Site',
             position: 'right',
           },
         ],
@@ -76,7 +76,7 @@ const config = {
                 href: 'https://www.dlsl.edu.ph',
               },
               {
-                label: 'Discord',
+                label: 'De La Sale',
                 href: 'https://delasalle.ph',
               }
             ],
